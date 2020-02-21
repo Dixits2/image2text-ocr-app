@@ -1,0 +1,2 @@
+setY(Math.min(anchor.getY(), event.getY()));
+
